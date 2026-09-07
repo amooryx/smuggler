@@ -1,8 +1,8 @@
-﻿# smuggler
+# smuggler
 
 > Red team security tool for authorized testing only.
 
-`ash
+```bash
 python smuggler.py --help
 ```
 
